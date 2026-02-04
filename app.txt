@@ -1,2 +1,2 @@
 Hello from the app!
-Built by Bob.
+Built by Bob and Alice.
